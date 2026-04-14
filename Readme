@@ -1,0 +1,127 @@
+# Verkkosivut – Course Project  
+### Author: Indrek  
+### Laurea AMK – Web Development Workshops (OPS25)
+
+This repository contains my completed project for the Laurea Web Development course.  
+The project demonstrates HTML, CSS, responsive design, layout techniques, and Bootstrap components across Workshops 1–6, culminating in a final project website.
+
+---
+
+## Project Overview
+
+The goal of this project was to build a fully functional, responsive website using the techniques learned in the workshops:
+
+- HTML structure and semantic elements  
+- CSS styling, layout, and responsiveness  
+- Flexbox and Grid  
+- Media queries  
+- Bootstrap components  
+- GitHub Pages deployment  
+
+The final website is published here:
+
+**Live site:** https://darkypasta.github.io/verkkosivut-project-indrek/  
+**Repository:** https://github.com/darkypasta/verkkosivut-project-indrek
+
+---
+
+## 🧩 Workshop Coverage
+
+### **Workshop 1 – HTML Basics**
+- Basic page structure  
+- Headings, paragraphs  
+- Image with alt text  
+- Lists (ordered & unordered)  
+- Links  
+- Table  
+- Form with input fields  
+- HTML validation (W3C)
+
+### **Workshop 2 – CSS Fundamentals**
+- Inline, internal, and external CSS  
+- Text styling  
+- Backgrounds  
+- Padding & margin  
+- Table & form styling  
+- CSS validation (W3C)
+
+### **Workshop 3 – Advanced CSS**
+- CSS transitions  
+- CSS animations  
+- Pseudo‑classes  
+- Pseudo‑elements  
+- CSS filters  
+
+### **Workshop 4 – Page Layout Techniques**
+- Semantic layout (`header`, `main`, `section`, `footer`)  
+- Flexbox layout  
+- Grid layout  
+- Media queries  
+
+### **Workshop 5 – Responsive Design**
+- Responsive two‑column layout  
+- Responsive images  
+- Media query color changes  
+- Responsive navigation menu  
+
+### **Workshop 6 – Bootstrap**
+- Bootstrap navbar  
+- Bootstrap grid  
+- Buttons  
+- Card component  
+- Alerts  
+- Bootstrap JS bundle  
+
+---
+
+## Technologies Used
+
+- **HTML5**  
+- **CSS3**  
+- **Flexbox & Grid**  
+- **Media Queries**  
+- **Bootstrap 5.3**  
+- **GitHub Pages**  
+
+---
+
+## Deployment
+
+The site is deployed using **GitHub Pages**:
+
+1. Repository set to **Public**  
+2. Pages source: `main` branch → `/ (root)`  
+3. Automatic deployment enabled  
+
+---
+
+## Project Structure
+
+
+---
+
+## What I Learned
+
+- Building structured and accessible HTML  
+- Styling and layout with CSS  
+- Creating responsive designs that adapt to screen sizes  
+- Using Flexbox and Grid effectively  
+- Adding animations and transitions  
+- Integrating Bootstrap components  
+- Publishing a website with GitHub Pages  
+- Validating code to meet web standards  
+
+---
+
+## Status
+
+All workshops (1–6) completed  
+HTML & CSS validated  
+Project published and functional  
+
+---
+
+## Contact
+
+If you want to reach me, feel free to contact me via the form on the website or through GitHub.
+
